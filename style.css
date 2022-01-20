@@ -2,7 +2,6 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     line-height: 1.5;
     font-size: 16px;
-    /* font: 16px/1.5 Arial, Helvitica; ( short cut ) */
     padding: 0px;
     margin: 0 px;
     background-color: #ffffff;
@@ -64,7 +63,7 @@ header #branding{
 
 header #branding h1{
     margin: 0px;
-    
+
 }
 header nav{
     float: right;
