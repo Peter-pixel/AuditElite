@@ -1210,7 +1210,7 @@ table a,
     }
     #mainav {}
     #mainav ul {
-        display: inline-block;
+        display: block;
         font-size: smaller;
     }
     #mainav form {
@@ -1251,7 +1251,6 @@ table a,
     .group .clear>*:last-child {
         margin-bottom: 0;
     }
-    /* Experimental - Needs more testing in different situations, stops double margin when stacking */
     .one_half,
     .one_third,
     .two_third,
